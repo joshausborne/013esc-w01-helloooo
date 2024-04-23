@@ -4,7 +4,7 @@ This is a Python "Hello World!" script.
 
 It is an extremely basic script that I have to write for some unspoken reason. I'm not supposed to say that it's for ... oh, I almost said it. You almost got me.
 
-[Software Demo Video](http://youtube.link.goes.here)
+Video link available in Slack channel
 
 # Development Environment
 
