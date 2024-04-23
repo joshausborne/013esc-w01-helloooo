@@ -1,2 +1,17 @@
-# 013esc-w01-helloooo
-Hello World app for week 1 of the unnamed class
+# Overview
+
+This is a Python "Hello World!" script.
+
+It is an extremely basic script that I have to write for some unspoken reason. I'm not supposed to say that it's for ... oh, I almost said it. You almost got me.
+
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+I used VIM to write this.
+
+This is written in Python.
+
+# Useful Websites
+
+* I did not utilize any websites in the creation of this script.
